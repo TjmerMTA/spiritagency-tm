@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tm.spiritagency.space/sitemap.xml
